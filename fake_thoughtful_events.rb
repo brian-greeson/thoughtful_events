@@ -5,10 +5,9 @@ require 'pry'
 
 get '/events' do
   genres = ["mexican","italian","sports","music","french"]
-  response = { genres: {}}
+  response = { genres: Hash.new { |hash, key| hash[key] = [] } }
 
   genres.each do |genre|
-    response[:genres][genre] = []
     5.times do
       response[:genres][genre] << {
       name: Faker::Restaurant.name,
