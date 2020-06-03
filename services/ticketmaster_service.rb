@@ -7,11 +7,11 @@ class TicketmasterService
 
     response = conn.get('events.json') do |req|
       req.params['classificationName'] = params[:genre]
+      # req.params['keyword'] = params[:genre]
       req.params['city'] = params[:city]
       req.params['stateCode'] = params[:state]
     end
 
     json = JSON.parse(response.body)
-    binding.pry
   end
 end
