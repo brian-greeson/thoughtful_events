@@ -1,5 +1,3 @@
-require 'dotenv'
-Dotenv.load
 require_relative 'spec_helper'
 
 describe 'ticketmaster api stuffs' do
