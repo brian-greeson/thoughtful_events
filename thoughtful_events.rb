@@ -1,16 +1,29 @@
-require 'sinatra'
+require 'sinatra/base'
 require 'pry'
 
-get '/events' do
-  content_type :json
+class ThoughtfulEvents < Sinatra::Base
+  get '/' do
+    'Thoughtful Events API'
+  end
 
-  {
-    music: [{name: 'Eagles',
-      location: '100 Circle Dr',
-      genre: 'music',
-      date: '10/10/99' }]
-  }.to_json
+  get '/events' do
+    content_type :json
+  genres = params[:genres].split(',')
+  genres.each do |genre|
+    TicketmasterService.new.events_by_genre_and_location(
+      {
+        genre: genre,
+        city: params[:city],
+        state: params[:state]
+      }
+    )
+  end
+
+    {
+      music: [{name: 'Eagles',
+        location: '100 Circle Dr',
+        genre: 'music',
+        date: '10/10/99' }]
+    }.to_json
+  end
 end
-
-# url: https://app.ticketmaster.com/discovery/v2/
-# events.json?apikey={apikey}
