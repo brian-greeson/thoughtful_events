@@ -4,7 +4,8 @@ require 'pry'
 
 
 get '/events' do
-  genres = params[:genres]
+  genres = ["mexican","italian","sports","music","french"]
+  # genres = params[:genres]
   response = { genres: Hash.new { |hash, key| hash[key] = [] } }
 
   genres.each do |genre|
