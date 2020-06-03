@@ -1,4 +1,5 @@
-gem 'dotenv-rails'
+gem 'dotenv'
+gem 'faraday'
 
 group :test do
   gem 'rack-test'

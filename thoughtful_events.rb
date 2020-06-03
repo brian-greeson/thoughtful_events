@@ -1,3 +1,4 @@
+require 'faraday'
 require 'sinatra/base'
 require 'pry'
 
@@ -18,12 +19,12 @@ class ThoughtfulEvents < Sinatra::Base
       }
     )
   end
-
-    {
-      music: [{name: 'Eagles',
-        location: '100 Circle Dr',
-        genre: 'music',
-        date: '10/10/99' }]
-    }.to_json
+# old fixed response and format
+# {
+#   music: [{name: 'Eagles',
+#     location: '100 Circle Dr',
+#     genre: 'music',
+#     date: '10/10/99' }]
+# }.to_json
   end
 end
