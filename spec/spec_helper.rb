@@ -6,16 +6,18 @@ Dotenv.load
 require 'rack/test'
 require 'rspec'
 require 'webmock/rspec'
+require './serializers/ticketmaster_serializer'
+require './services/ticketmaster_service'
 WebMock.disable_net_connect!(allow_localhost: true)
 
 ENV['RACK_ENV'] = 'test'
 
 # require File.expand_path '../../thoughtful_events.rb', __FILE__
-require '../thoughtful_events.rb'
+require './thoughtful_events'
 
 module RSpecMixin
   include Rack::Test::Methods
-  def app() Sinatra::Application end
+  def app() ThoughtfulEvents end
 end
 
 RSpec.configure { |c| c.include RSpecMixin }
