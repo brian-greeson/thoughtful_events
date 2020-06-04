@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
@@ -24,6 +25,7 @@ GEM
       rack
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
+    rake (13.0.1)
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
       rspec-expectations (~> 3.9.0)
@@ -62,10 +64,14 @@ DEPENDENCIES
   faraday
   pry
   rack-test
+  rake
   rspec
   simplecov
   sinatra
   webmock
+
+RUBY VERSION
+   ruby 2.5.3p105
 
 BUNDLED WITH
    2.1.4
