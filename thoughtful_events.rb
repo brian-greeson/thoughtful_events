@@ -10,7 +10,7 @@ class ThoughtfulEvents < Sinatra::Base
   get '/events' do
     content_type :json
     genres = params[:genres].split(',')
-    responses = []
+    responses = {}
     genres.each do |genre|
       response = TicketmasterService.new.events_by_genre_and_location(
         {
@@ -19,8 +19,7 @@ class ThoughtfulEvents < Sinatra::Base
           state: params[:state]
         }
       )
-      binding.pry
-      responses << {genre => TicketmasterSerializer.new.ingest(response) }
+      responses[genre] = TicketmasterSerializer.new.ingest(response)
     end
     responses.to_json
   end
