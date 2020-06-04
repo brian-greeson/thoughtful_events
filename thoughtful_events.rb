@@ -2,6 +2,7 @@ require 'faraday'
 require 'pry'
 require 'sinatra/base'
 require './serializers/ticketmaster_serializer'
+
 class ThoughtfulEvents < Sinatra::Base
   get '/' do
     'Thoughtful Events API'
