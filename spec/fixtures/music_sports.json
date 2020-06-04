@@ -1,0 +1,490 @@
+[
+    {
+        "music": [
+            {
+                "name": "Eagles",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.010166",
+                        "latitude": "39.74724"
+                    }
+                },
+                "date": "2021-09-18",
+                "genre": "Music"
+            },
+            {
+                "name": "Eagles",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.010166",
+                        "latitude": "39.74724"
+                    }
+                },
+                "date": "2021-09-16",
+                "genre": "Music"
+            },
+            {
+                "name": "Mötley Crüe/Def Leppard/Poison/Joan Jett and the Blackhearts",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-08-30",
+                "genre": "Music"
+            },
+            {
+                "name": "The Lumineers - III: The World Tour",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-08-29",
+                "genre": "Music"
+            },
+            {
+                "name": "My Chemical Romance",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.010166",
+                        "latitude": "39.74724"
+                    }
+                },
+                "date": "2020-10-02",
+                "genre": "Music"
+            },
+            {
+                "name": "Harry Styles: Love On Tour",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.010166",
+                        "latitude": "39.74724"
+                    }
+                },
+                "date": "2020-08-15",
+                "genre": "Music"
+            },
+            {
+                "name": "Sofi Tukker",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.970901",
+                        "latitude": "39.731201"
+                    }
+                },
+                "date": "2020-08-13",
+                "genre": "Music"
+            },
+            {
+                "name": "5 Seconds of Summer: No Shame 2020 Tour",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.977194",
+                        "latitude": "39.740611"
+                    }
+                },
+                "date": "2020-08-19",
+                "genre": "Music"
+            },
+            {
+                "name": "The Doobie Brothers - 50th Anniversary Tour",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.010166",
+                        "latitude": "39.74724"
+                    }
+                },
+                "date": "2021-09-27",
+                "genre": "Music"
+            },
+            {
+                "name": "Melanie Martinez: The K-12 Tour",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.990271",
+                        "latitude": "39.744362"
+                    }
+                },
+                "date": "2020-07-26",
+                "genre": "Music"
+            },
+            {
+                "name": "The Weeknd with Special Guests Sabrina Claudio And Don Toliver",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.010166",
+                        "latitude": "39.74724"
+                    }
+                },
+                "date": "2021-07-25",
+                "genre": "Music"
+            },
+            {
+                "name": "Journey with Pretenders",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.010166",
+                        "latitude": "39.74724"
+                    }
+                },
+                "date": "2020-06-04",
+                "genre": "Music"
+            },
+            {
+                "name": "The Beach Boys",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.002026",
+                        "latitude": "39.686977"
+                    }
+                },
+                "date": "2020-08-06",
+                "genre": "Music"
+            },
+            {
+                "name": "Big Rock Summer Tour: RATT,  Skid Row, Quiet Riot, Slaughter",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.002026",
+                        "latitude": "39.686977"
+                    }
+                },
+                "date": "2020-09-06",
+                "genre": "Music"
+            },
+            {
+                "name": "AJR - Everything Everywhere Tour",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.010166",
+                        "latitude": "39.74724"
+                    }
+                },
+                "date": "2020-08-13",
+                "genre": "Music"
+            },
+            {
+                "name": "Melanie Martinez: The K-12 Tour",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.977194",
+                        "latitude": "39.740611"
+                    }
+                },
+                "date": "2020-07-26",
+                "genre": "Music"
+            },
+            {
+                "name": "Amy Grant",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.990271",
+                        "latitude": "39.744362"
+                    }
+                },
+                "date": "2021-03-21",
+                "genre": "Music"
+            },
+            {
+                "name": "Little River Band",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.990271",
+                        "latitude": "39.744362"
+                    }
+                },
+                "date": "2020-11-19",
+                "genre": "Music"
+            },
+            {
+                "name": "Jimmy Eat World with The Front Bottoms",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.977194",
+                        "latitude": "39.740611"
+                    }
+                },
+                "date": "2020-08-31",
+                "genre": "Music"
+            },
+            {
+                "name": "Snow Patrol Acoustic Tour",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.990271",
+                        "latitude": "39.744362"
+                    }
+                },
+                "date": "2020-10-13",
+                "genre": "Music"
+            }
+        ]
+    },
+    {
+        "sports": [
+            {
+                "name": "Denver Broncos vs. Tampa Bay Buccaneers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2020-09-27",
+                "genre": "Sports"
+            },
+            {
+                "name": "Denver Broncos vs. Kansas City Chiefs",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2020-10-25",
+                "genre": "Sports"
+            },
+            {
+                "name": "Denver Broncos vs. Tennessee Titans",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2020-09-14",
+                "genre": "Sports"
+            },
+            {
+                "name": "Denver Broncos vs. Miami Dolphins",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2020-10-18",
+                "genre": "Sports"
+            },
+            {
+                "name": "Denver Broncos vs. San Francisco 49ers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2020-08-15",
+                "genre": "Sports"
+            },
+            {
+                "name": "Denver Broncos vs. New Orleans Saints",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2020-11-29",
+                "genre": "Sports"
+            },
+            {
+                "name": "Denver Broncos vs. Las Vegas Raiders",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2021-01-03",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Los Angeles Dodgers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-08-22",
+                "genre": "Sports"
+            },
+            {
+                "name": "Denver Broncos vs. Chicago Bears",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2020-08-22",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Los Angeles Dodgers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-08-21",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Los Angeles Dodgers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-08-23",
+                "genre": "Sports"
+            },
+            {
+                "name": "Denver Broncos vs. Los Angeles Chargers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-105.020127",
+                        "latitude": "39.743853"
+                    }
+                },
+                "date": "2020-11-22",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Los Angeles Dodgers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-09-24",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Los Angeles Dodgers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-09-22",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Los Angeles Dodgers",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-09-23",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. San Francisco Giants",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-07-03",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. San Francisco Giants",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-07-04",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Chicago Cubs",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-09-07",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Chicago Cubs",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-09-08",
+                "genre": "Sports"
+            },
+            {
+                "name": "Colorado Rockies vs. Chicago Cubs",
+                "location": {
+                    "address": "Denver,CO",
+                    "coordinates": {
+                        "longitude": "-104.9942814",
+                        "latitude": "39.7564355"
+                    }
+                },
+                "date": "2020-09-09",
+                "genre": "Sports"
+            }
+        ]
+    }
+]
