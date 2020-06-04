@@ -4,10 +4,10 @@ ruby '2.5.3'
 gem 'sinatra'
 gem 'faraday'
 gem 'rake'
+gem 'pry'
 
 group :development, :test do
   gem 'dotenv'
-  gem 'pry'
   gem 'rack-test'
   gem 'rspec'
   gem 'simplecov'
