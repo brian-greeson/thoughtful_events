@@ -12,7 +12,6 @@ WebMock.disable_net_connect!(allow_localhost: true)
 
 ENV['RACK_ENV'] = 'test'
 
-# require File.expand_path '../../thoughtful_events.rb', __FILE__
 require './thoughtful_events'
 
 module RSpecMixin
