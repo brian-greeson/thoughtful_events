@@ -1,5 +1,4 @@
 require 'faraday'
-require 'pry'
 require 'sinatra/base'
 require './serializers/ticketmaster_serializer'
 
