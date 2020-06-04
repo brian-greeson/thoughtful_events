@@ -1,7 +1,9 @@
 gem 'dotenv'
 gem 'faraday'
+gem 'sinatra'
 
-group :test do
+group :development, :test do
+  gem 'pry'
   gem 'rack-test'
   gem 'rspec'
   gem 'simplecov'
