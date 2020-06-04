@@ -2,19 +2,14 @@ class TicketmasterSerializer
   def ingest(response)
     events = []
     if response['_embedded']
-      response['_embedded']['events'].each do |event|
-      events << event_details(event)
-      end
+      response['_embedded']['events'].each { |event| events << event_details(event) }
     else
-      events << {
-        name: 'We are extreamly sorry, but there are no events availalbe within your search. Please try adjusting your requirements, life view, or trip expectations. Whatever is most convienent. Try Tacos',
-        location: '',
-        date: '',
-        genre: ''
-      }
+      events << no_events_message
     end
     events
   end
+
+private
 
   def location(event)
     {
@@ -29,6 +24,15 @@ class TicketmasterSerializer
       location: location(event),
       date: event['dates']['start']['localDate'],
       genre: event['classifications'][0]['segment']['name']
+    }
+  end
+
+  def no_events_message
+    {
+      name: 'We are extremely sorry, but there are no events available within your search. Please try adjusting your requirements, life view, or trip expectations. Whatever is most convienent. Eat more tacos',
+      location: '',
+      date: '',
+      genre: ''
     }
   end
 end
