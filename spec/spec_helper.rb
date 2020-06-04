@@ -5,6 +5,9 @@ require 'dotenv'
 Dotenv.load
 require 'rack/test'
 require 'rspec'
+require 'webmock/rspec'
+WebMock.disable_net_connect!(allow_localhost: true)
+
 ENV['RACK_ENV'] = 'test'
 
 # require File.expand_path '../../thoughtful_events.rb', __FILE__

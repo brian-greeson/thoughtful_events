@@ -19,6 +19,7 @@ class ThoughtfulEvents < Sinatra::Base
           state: params[:state]
         }
       )
+      binding.pry
       responses << {genre => TicketmasterSerializer.new.ingest(response) }
     end
     responses.to_json
