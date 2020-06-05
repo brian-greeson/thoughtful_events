@@ -1,6 +1,6 @@
-require_relative 'spec_helper'
+require './spec/spec_helper'
 
-describe 'ticketmaster api stuffs' do
+describe 'ticketmaster api' do
   it 'can get events by location' do
     query_params = {
       genres: 'music,sports',

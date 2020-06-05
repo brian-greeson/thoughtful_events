@@ -1,0 +1,534 @@
+{
+    "results_found": 55,
+    "results_start": 0,
+    "results_shown": 5,
+    "restaurants": [
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16969823
+                },
+                "apikey": "428e0c697bfa4e219afcd8ed0eebdf8a",
+                "id": "16969823",
+                "name": "Little India",
+                "url": "https://www.zomato.com/denver/little-india-central-business-district?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "1533 Champa Street, Denver 80202",
+                    "locality": "Central Business District",
+                    "city": "Denver",
+                    "city_id": 305,
+                    "latitude": "39.7460472222",
+                    "longitude": "-104.9944000000",
+                    "zipcode": "80202",
+                    "country_id": 216,
+                    "locality_verbose": "Central Business District, Denver"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Indian",
+                "timings": "11 AM to 10 PM (Mon-Sun)",
+                "average_cost_for_two": 25,
+                "price_range": 2,
+                "currency": "$",
+                "highlights": [
+                    "Delivery",
+                    "No Alcohol Available",
+                    "Dinner",
+                    "Credit Card",
+                    "Takeaway Available",
+                    "Lunch",
+                    "Gluten Free Options",
+                    "Vegetarian Friendly",
+                    "Table booking recommended",
+                    "Indoor Seating",
+                    "Kid Friendly",
+                    "Vegan Options",
+                    "Lunch Menu",
+                    "Outdoor Seating"
+                ],
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https://b.zmtcdn.com/data/res_imagery/16969823_CHAIN_c75d612612b820c8c8d133fc7349b260_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "3.9",
+                    "rating_text": "Good",
+                    "rating_color": "9ACD32",
+                    "rating_obj": {
+                        "title": {
+                            "text": "3.9"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "600"
+                        }
+                    },
+                    "votes": "111"
+                },
+                "all_reviews_count": 29,
+                "photos_url": "https://www.zomato.com/denver/little-india-central-business-district/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "photo_count": 45,
+                "menu_url": "https://www.zomato.com/denver/little-india-central-business-district/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https://b.zmtcdn.com/data/res_imagery/16969823_CHAIN_c75d612612b820c8c8d133fc7349b260_c.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "store_type": "",
+                "include_bogo_offers": true,
+                "deeplink": "zomato://restaurant/16969823",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https://www.zomato.com/denver/little-india-central-business-district/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "phone_numbers": "(303) 629-5777",
+                "all_reviews": {
+                    "reviews": [
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        }
+                    ]
+                },
+                "establishment": [
+                    "Casual Dining"
+                ],
+                "establishment_types": []
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16974067
+                },
+                "apikey": "428e0c697bfa4e219afcd8ed0eebdf8a",
+                "id": "16974067",
+                "name": "Sherpa House Restaurant & Cultural Center",
+                "url": "https://www.zomato.com/denver/sherpa-house-restaurant-cultural-center-golden?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "1518 Washington Avenue, Historic Golden Downtown, south side of Foothills Art Center 80401",
+                    "locality": "Golden",
+                    "city": "Denver",
+                    "city_id": 305,
+                    "latitude": "39.7523100000",
+                    "longitude": "-105.2188800000",
+                    "zipcode": "80401",
+                    "country_id": 216,
+                    "locality_verbose": "Golden, Denver"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Indian",
+                "timings": "11 AM to 2:30 PM, 5 PM to 9:30 PM (Mon-Thu, Sun), 11 AM to 2:30 PM, 5 PM to 10 PM (Fri-Sat)",
+                "average_cost_for_two": 25,
+                "price_range": 2,
+                "currency": "$",
+                "highlights": [
+                    "Dinner",
+                    "Credit Card",
+                    "Takeaway Available",
+                    "Lunch",
+                    "Indoor Seating",
+                    "Wifi",
+                    "Gluten Free Options",
+                    "Vegetarian Friendly",
+                    "Beer",
+                    "Table booking recommended",
+                    "Outdoor Seating",
+                    "Kid Friendly",
+                    "Vegan Options",
+                    "Wine"
+                ],
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https://b.zmtcdn.com/data/res_imagery/16974067_RESTAURANT_8dacdfe4c0d1327680d960e3c764259c.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.2",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.2"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "98"
+                },
+                "all_reviews_count": 33,
+                "photos_url": "https://www.zomato.com/denver/sherpa-house-restaurant-cultural-center-golden/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "photo_count": 31,
+                "menu_url": "https://www.zomato.com/denver/sherpa-house-restaurant-cultural-center-golden/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https://b.zmtcdn.com/data/res_imagery/16974067_RESTAURANT_8dacdfe4c0d1327680d960e3c764259c.png?output-format=webp",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "store_type": "",
+                "include_bogo_offers": true,
+                "deeplink": "zomato://restaurant/16974067",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https://www.zomato.com/denver/sherpa-house-restaurant-cultural-center-golden/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "phone_numbers": "(303) 278-7939",
+                "all_reviews": {
+                    "reviews": [
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        }
+                    ]
+                },
+                "establishment": [
+                    "Casual Dining"
+                ],
+                "establishment_types": []
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16969379
+                },
+                "apikey": "428e0c697bfa4e219afcd8ed0eebdf8a",
+                "id": "16969379",
+                "name": "Jewel of India",
+                "url": "https://www.zomato.com/denver/jewel-of-india-westminster?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "10343 Federal Boulevard, Westminster, Denver 80260",
+                    "locality": "Westminster",
+                    "city": "Denver",
+                    "city_id": 305,
+                    "latitude": "39.8825138889",
+                    "longitude": "-105.0272222222",
+                    "zipcode": "80260",
+                    "country_id": 216,
+                    "locality_verbose": "Westminster, Denver"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Indian",
+                "timings": "11 AM to 2:30 PM, 5 PM to 9:30 PM (Mon-Wed),11 AM to 2:30 PM, 5 PM to 10 PM (Thu-Fri),11:30 AM to 3 PM, 5 PM to 10 PM (Sat),11:30 AM to 3 PM, 5 PM to 9:30 PM (Sun)",
+                "average_cost_for_two": 25,
+                "price_range": 2,
+                "currency": "$",
+                "highlights": [
+                    "Credit Card",
+                    "Dinner",
+                    "Takeaway Available",
+                    "Lunch",
+                    "Serves Alcohol",
+                    "Kid Friendly",
+                    "Vegetarian Friendly",
+                    "Indoor Seating"
+                ],
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https://b.zmtcdn.com/data/res_imagery/16969379_RESTAURANT_b51a913fdfd97c60f0d198b7307106e8_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.4",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.4"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "89"
+                },
+                "all_reviews_count": 22,
+                "photos_url": "https://www.zomato.com/denver/jewel-of-india-westminster/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "photo_count": 18,
+                "menu_url": "https://www.zomato.com/denver/jewel-of-india-westminster/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https://b.zmtcdn.com/data/res_imagery/16969379_RESTAURANT_b51a913fdfd97c60f0d198b7307106e8_c.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "store_type": "",
+                "include_bogo_offers": true,
+                "deeplink": "zomato://restaurant/16969379",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https://www.zomato.com/denver/jewel-of-india-westminster/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "phone_numbers": "(303) 469-7779",
+                "all_reviews": {
+                    "reviews": [
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        }
+                    ]
+                },
+                "establishment": [
+                    "Casual Dining"
+                ],
+                "establishment_types": []
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16969825
+                },
+                "apikey": "428e0c697bfa4e219afcd8ed0eebdf8a",
+                "id": "16969825",
+                "name": "Little India",
+                "url": "https://www.zomato.com/denver/little-india-speer?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "330 East 6th Avenue 80203",
+                    "locality": "Speer",
+                    "city": "Denver",
+                    "city_id": 305,
+                    "latitude": "39.7254000000",
+                    "longitude": "-104.9829200000",
+                    "zipcode": "80203",
+                    "country_id": 216,
+                    "locality_verbose": "Speer, Denver"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Indian",
+                "timings": "3 PM to 10 PM, 11 AM to 2:30 PM (Mon-Wed), 11 AM to 2:30 PM, 3 PM to 10 PM (Thu-Sun)",
+                "average_cost_for_two": 25,
+                "price_range": 2,
+                "currency": "$",
+                "highlights": [
+                    "Lunch",
+                    "Serves Alcohol",
+                    "Credit Card",
+                    "Takeaway Available",
+                    "Dinner",
+                    "Vegan Options",
+                    "Kid Friendly",
+                    "Vegetarian Friendly",
+                    "Table booking recommended",
+                    "Indoor Seating",
+                    "Wifi",
+                    "Gluten Free Options"
+                ],
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https://b.zmtcdn.com/data/res_imagery/16969823_CHAIN_c75d612612b820c8c8d133fc7349b260_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "3.9",
+                    "rating_text": "Good",
+                    "rating_color": "9ACD32",
+                    "rating_obj": {
+                        "title": {
+                            "text": "3.9"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "600"
+                        }
+                    },
+                    "votes": "91"
+                },
+                "all_reviews_count": 21,
+                "photos_url": "https://www.zomato.com/denver/little-india-speer/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "photo_count": 30,
+                "menu_url": "https://www.zomato.com/denver/little-india-speer/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https://b.zmtcdn.com/data/res_imagery/16969823_CHAIN_c75d612612b820c8c8d133fc7349b260_c.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "store_type": "",
+                "include_bogo_offers": true,
+                "deeplink": "zomato://restaurant/16969825",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https://www.zomato.com/denver/little-india-speer/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "phone_numbers": "(303) 871-9777",
+                "all_reviews": {
+                    "reviews": [
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        }
+                    ]
+                },
+                "establishment": [
+                    "Casual Dining"
+                ],
+                "establishment_types": []
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16969251
+                },
+                "apikey": "428e0c697bfa4e219afcd8ed0eebdf8a",
+                "id": "16969251",
+                "name": "India's Castle",
+                "url": "https://www.zomato.com/denver/indias-castle-centennial?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "9555 East Arapahoe Road, Greenwood Village, Denver 80112",
+                    "locality": "Centennial",
+                    "city": "Denver",
+                    "city_id": 305,
+                    "latitude": "39.5958944444",
+                    "longitude": "-104.8784250000",
+                    "zipcode": "80112",
+                    "country_id": 216,
+                    "locality_verbose": "Centennial, Denver"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Indian",
+                "timings": "11 AM to 2:30 PM, 5 PM to 9:30 PM (Mon-Fri),11:30 AM to 2:30 PM, 5 PM to 10 PM (Sat),5 PM to 9:30 PM (Sun)",
+                "average_cost_for_two": 25,
+                "price_range": 2,
+                "currency": "$",
+                "highlights": [
+                    "Credit Card",
+                    "Takeaway Available",
+                    "Dinner",
+                    "Lunch",
+                    "Kid Friendly",
+                    "Vegetarian Friendly",
+                    "Outdoor Seating",
+                    "Wifi",
+                    "Gluten Free Options"
+                ],
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https://b.zmtcdn.com/data/res_imagery/16969251_RESTAURANT_22ee955895e809cf41a6abe9d9d9f5c1_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "3.9",
+                    "rating_text": "Good",
+                    "rating_color": "9ACD32",
+                    "rating_obj": {
+                        "title": {
+                            "text": "3.9"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "600"
+                        }
+                    },
+                    "votes": "66"
+                },
+                "all_reviews_count": 23,
+                "photos_url": "https://www.zomato.com/denver/indias-castle-centennial/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "photo_count": 30,
+                "menu_url": "https://www.zomato.com/denver/indias-castle-centennial/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https://b.zmtcdn.com/data/res_imagery/16969251_RESTAURANT_22ee955895e809cf41a6abe9d9d9f5c1_c.jpg?output-format=webp",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "store_type": "",
+                "include_bogo_offers": true,
+                "deeplink": "zomato://restaurant/16969251",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https://www.zomato.com/denver/indias-castle-centennial/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "phone_numbers": "(303) 782-9700",
+                "all_reviews": {
+                    "reviews": [
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        }
+                    ]
+                },
+                "establishment": [
+                    "Fast Casual"
+                ],
+                "establishment_types": []
+            }
+        }
+    ]
+}
