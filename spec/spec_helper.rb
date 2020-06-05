@@ -5,11 +5,11 @@ require 'dotenv'
 Dotenv.load
 require 'rack/test'
 require 'rspec'
-# require 'webmock/rspec'
+require 'webmock/rspec'
 require './serializers/ticketmaster_serializer'
 require './services/ticketmaster_service'
 require './services/zomato_service'
-# WebMock.disable_net_connect!(allow_localhost: true)
+WebMock.disable_net_connect!(allow_localhost: true)
 
 ENV['RACK_ENV'] = 'test'
 
