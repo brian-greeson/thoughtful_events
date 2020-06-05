@@ -1,6 +1,7 @@
 require 'faraday'
 require 'sinatra/base'
 require './serializers/ticketmaster_serializer'
+require './serializers/zomato_serializer'
 require "pry"
 class ThoughtfulEvents < Sinatra::Base
   get '/' do
@@ -13,13 +14,11 @@ class ThoughtfulEvents < Sinatra::Base
     genres = params[:genres].split(',')
 
     genre_params(genres)[:food].each do |genre|
-      response = ZomatoService.new.restaurants_by_genre_and_location(search_params(genre))
-      require "pry"; binding.pry
+      response = ZomatoService.new(search_params(genre)).restaurants_by_genre_and_location
       responses[genre] = ZomatoSerializer.new.ingest(response)
     end
 
     genre_params(genres)[:events].each do |genre|
-      require "pry"; binding.pry
       response = TicketmasterService.new.events_by_genre_and_location(search_params(genre))
       responses[genre] = TicketmasterSerializer.new.ingest(response)
     end
