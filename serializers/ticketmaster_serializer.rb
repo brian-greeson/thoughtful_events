@@ -29,7 +29,7 @@ private
 
   def no_events_message
     {
-      name: 'We are extremely sorry, but there are no events available within your search. Please try adjusting your requirements, life view, or trip expectations. Whatever is most convienent. Eat more tacos',
+      name: 'We are extremely sorry, but there are no events available within your search. Please try adjusting your requirements, life view, or trip expectations. Whatever is most convenient. Eat more tacos!',
       location: '',
       date: '',
       genre: ''
