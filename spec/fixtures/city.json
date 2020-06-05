@@ -1,0 +1,19 @@
+{
+    "location_suggestions": [
+        {
+            "entity_type": "city",
+            "entity_id": 305,
+            "title": "Denver, Colorado",
+            "latitude": 39.739108999999999,
+            "longitude": -104.98391700000001,
+            "city_id": 305,
+            "city_name": "Denver",
+            "country_id": 216,
+            "country_name": "United States"
+        }
+    ],
+    "status": "success",
+    "has_more": 0,
+    "has_total": 0,
+    "user_has_addresses": true
+}
